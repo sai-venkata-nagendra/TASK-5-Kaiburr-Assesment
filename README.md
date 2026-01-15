@@ -1,8 +1,8 @@
-# Kaiburr Assessment - Task 5: Consumer Complaint Classification
+Consumer Complaint Classification
 
-This repository contains the complete solution for the Data Science example (Task 5) as part of the Kaiburr assessment. The project involves building and evaluating a machine learning model to classify consumer financial complaints into specific product categories.
 
-## 📝 Task Description
+
+## 📝  Description
 
 [cite_start]The objective of this task is to perform text classification on the [Consumer Complaint Database](https://catalog.data.gov/dataset/consumer-complaint-database)[cite: 111]. [cite_start]The goal is to categorize consumer complaint narratives into one of the following four product categories[cite: 112]:
 
